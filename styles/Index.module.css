@@ -1,0 +1,31 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white
+}
+
+.main {
+
+}
+
+.box {
+  width: 100%;
+  height: 400px;
+}
+
+/* colors */
+
+/*  $yellow: #FEDE87;
+$burntOrange: #FEAE20;
+$babyBlue: #099CD7;
+$lightBlue: #07b7fd;
+$red: #D82802;
+$darkRed: rgb(156, 40, 2); */
+
+/* fonts $lora: 'Lora', serif;
+$raleway: 'Raleway', sans-serif;
+$montserrat:  'Montserrat', sans-serif; */
